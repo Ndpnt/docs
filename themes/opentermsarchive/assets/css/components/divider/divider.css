@@ -1,5 +1,0 @@
-.divider {
-  & > hr {
-    border: 1px solid var(--colorBlack400);
-  }
-}
